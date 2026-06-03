@@ -30,6 +30,6 @@ function mychfont()
 {
 if(a==1) { document.getElementById("zapoln").style.fontFamily = "Hangyaboly"; 
 return a=0; }
-else{ document.getElementById("zapoln").style.fontFamily = "Caslon"; 
+else{ document.getElementById("zapoln").style.fontFamily = "BookAntiqua"; 
 return a=1; }
 }
